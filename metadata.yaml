@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31925
     wikipedia: http://en.wikipedia.org/wiki/Basil_Valentine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26340#Of-Natural-and-Supernatural-Things--13-Also-of-the-first-Tincture-Root-and-Spirit-of-Metals-a_
 gutenberg_issued: '2008-08-17'
 gutenberg_type: Text
 identifiers:
